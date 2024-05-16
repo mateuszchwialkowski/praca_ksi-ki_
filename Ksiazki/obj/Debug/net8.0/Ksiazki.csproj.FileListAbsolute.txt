@@ -1,0 +1,29 @@
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\bin\Debug\net8.0\Ksiazki.exe
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\bin\Debug\net8.0\Ksiazki.deps.json
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\bin\Debug\net8.0\Ksiazki.runtimeconfig.json
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\bin\Debug\net8.0\Ksiazki.dll
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\bin\Debug\net8.0\Ksiazki.pdb
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\obj\Debug\net8.0\Ksiazki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\obj\Debug\net8.0\Ksiazki.AssemblyInfoInputs.cache
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\obj\Debug\net8.0\Ksiazki.AssemblyInfo.cs
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\obj\Debug\net8.0\Ksiazki.csproj.CoreCompileInputs.cache
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\obj\Debug\net8.0\Ksiazki.dll
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\obj\Debug\net8.0\refint\Ksiazki.dll
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\obj\Debug\net8.0\Ksiazki.pdb
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\obj\Debug\net8.0\Ksiazki.genruntimeconfig.cache
+C:\Users\ciapibara\source\repos\Ksiazki\Ksiazki\obj\Debug\net8.0\ref\Ksiazki.dll
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\bin\Debug\net8.0\Ksiazki.exe
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\bin\Debug\net8.0\Ksiazki.deps.json
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\bin\Debug\net8.0\Ksiazki.runtimeconfig.json
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\bin\Debug\net8.0\Ksiazki.dll
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\bin\Debug\net8.0\Ksiazki.pdb
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\Ksiazki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\Ksiazki.AssemblyInfoInputs.cache
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\Ksiazki.AssemblyInfo.cs
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\Ksiazki.csproj.CoreCompileInputs.cache
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\Ksiazki.sourcelink.json
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\Ksiazki.dll
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\refint\Ksiazki.dll
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\Ksiazki.pdb
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\Ksiazki.genruntimeconfig.cache
+C:\Users\radek\Documents\My Projects\ksionzki\Ksiazki\obj\Debug\net8.0\ref\Ksiazki.dll
